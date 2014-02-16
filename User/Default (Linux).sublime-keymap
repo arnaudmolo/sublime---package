@@ -1,0 +1,17 @@
+[
+  {
+    "keys": ["ctrl+o"],
+    "command": "show_overlay",
+    "args": {
+      "overlay": "goto",
+      "show_files": true
+    }
+  },
+  {
+    "keys": ["ctrl+p"],
+    "command": "show_overlay",
+    "args": {
+      "overlay": "command_palette"
+      }
+    }
+]
